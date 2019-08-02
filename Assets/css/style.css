@@ -1,0 +1,111 @@
+header{
+	background-color: #cc2900;
+	padding-top: 5px;
+
+}
+h1{
+	text-align: center;
+	color: white;
+	text-shadow: 3px 3px black;
+	text-indent:20px ;
+	font-size: 50px;
+	
+
+}
+
+nav{
+	height: 20px;
+	width: 100%;
+	text-align: center;
+	word-spacing: 30px;
+    
+}
+a{
+	text-shadow: 3px 2px black;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+	letter-spacing: 2px;
+	color:white;
+	line-height: 1.8;
+}
+.log{
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+	letter-spacing: 2px;
+	color:white;
+	line-height: 1.8;
+}
+.div1 {
+	
+  width: 300px;
+  height: 250px;
+  
+}
+form {
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+}
+section{
+	float: left;
+	height: 400px;
+	width: 600px;
+	padding-left: 20px;
+
+}
+.mission{
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	color:#801a00;
+	text-shadow: 2px 2px white;
+
+}
+.sec{
+	float: right;
+	height: 400px;
+	width: 600px;
+	padding-right: 20px;
+}
+.vision{
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	color:#801a00;
+	text-shadow: 2px 2px white;
+}
+p{
+	font-size: 20px;
+
+}
+.back{
+
+}
+a:link {
+  padding-top: 7px;
+  padding-left: 11px;
+  padding-right: 10px;
+  padding-bottom: 7px;
+  background-color: #cc2900;
+}
+
+a:visited {
+  background-color: #cc2900;
+}
+
+a:hover {
+  background-color: #ff1a1a;
+  text-decoration: underline;
+}
+
+a:active {
+  background-color: #4d0000;
+} 
+.image{
+	 float: left;
+}
+p{
+	float: left;
+}
